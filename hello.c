@@ -1,9 +1,12 @@
 /*Basic Hello World Program
 */
-int main(in argc, char **argv){
+#include<stdlib.h>
+#include<stdio.h>
 
-    printf("Hello, I'm Yixuan Li\n");
-    printf("Major is Data Science\n");
+int main(int argc, char **argv) {
 
-    retuen 0;
+    printf("Hello, I'm Yixuan Li!\n");
+    printf("Major is Data Science!\n");
+
+    return 0;
 }
